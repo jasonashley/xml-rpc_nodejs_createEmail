@@ -4,6 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+    "makeEmail":"node benchmark/index.js",
     "format": "prettier --write \"benchmark/**/*.{js,jsx,css,json}\""
   },
   "keywords": [],
