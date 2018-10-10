@@ -1,0 +1,18 @@
+{
+  "name": "benchmark_665288_createEmail",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "format": "prettier --write \"benchmark/**/*.{js,jsx,css,json}\""
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "prettier": "^1.14.3"
+  },
+  "dependencies": {
+    "dotenv": "^6.1.0"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "name": "benchmark",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "format": "prettier --write \"benchmark/**/*.{js,jsx,css,json}\""
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "benchmarkemail": "^1.0.0"
+  }
+}
